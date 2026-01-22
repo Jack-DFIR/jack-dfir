@@ -17,7 +17,10 @@ I'm currently studying a **BSc (Hons) Cyber Security** at The Open University (U
 - Other: Hashing/verification (MD5/SHA), basic encryption analysis, Tor artefact recovery
 
 ## Projects & Write-Ups
-(Work in progress – adding labs and write-ups regularly)
+**Disk Analysis and Autopsy (TryHackMe)**
+- Analysed disk image for user accounts, credential tools (Mimikatz, LaZagne), LOOK@LAN network monitoring, exploits (Zerologon), YARA rules and media artifacts.
+- Tools: Autopsy 4.18.0
+- ![Full write-up (STAR format)](tryhackme-labs/disk-analysis-and-autopsy-room-write-up.md)
 
 ## Certifications & Badges (Planned/Targeted)
 - OU Cyber Security modules (ongoing toward BSc)
@@ -26,6 +29,6 @@ I'm currently studying a **BSc (Hons) Cyber Security** at The Open University (U
 - **LinkedIn**: [In progress]
 - **Email**: [jack-dfir@outlook.com]
 
-Last updated: January 2026
+Last updated: January 22nd 2026 
 
 Feel free to explore the folders or reach out!
