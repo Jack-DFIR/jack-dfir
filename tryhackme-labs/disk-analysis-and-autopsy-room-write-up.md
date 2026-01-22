@@ -53,3 +53,5 @@ Successfully recovered deleted files, extracted metadata, and identified high-ri
 
 **Relevance to Career Goals:**
 This room builds practical skills in forensic artifact analysis and reporting, which are directly applicable to roles in UK policing. STAR structured documents mirror court statements and professional forensic reports.
+
+**Room Progress:** 100% completed, all 15 questions answered correctly.
